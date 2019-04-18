@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/uiDemo/uiDemo",
+    "pages/logins/login/login",
+    "pages/index/index",
+    "pages/me/index/index",
+    "pages/Gselect/Gselect",
+    "pages/search/search",
+    "pages/uiDemo/layout/layout",
+    "pages/uiDemo/panel/panel",
+    "pages/uiDemo/list/list",
+    "pages/uiDemo/card/card",
+    "pages/uiDemo/button/button",
+    "pages/uiDemo/icon/icon",
+    "pages/uiDemo/badge/badge",
+    "pages/uiDemo/progress/progress"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {},
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首頁"
+      },
+      {
+        "pagePath": "pages/Gselect/Gselect",
+        "text": "精选话题"
+      },
+      {
+        "pagePath": "pages/me/index/index",
+        "text": "我的"
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+<import src="/components/iview/panel.vue.wxml" />
+<import src="/components/iview/cellGroup.vue.wxml" />
+<import src="/components/iview/cell.vue.wxml" />
+<import src="/components/iview/row.vue.wxml" />
+<import src="/components/iview/col.vue.wxml" />
+<import src="/components/iview/card.vue.wxml" />
+<import src="/components/iview/progress.vue.wxml" />
+<import src="/components/iview/button.vue.wxml" />
+<import src="/components/iview/badge.vue.wxml" />
+
+<template name="8480e336-default-8480e336-5"><template title="Layout 栅格布局" is-link="true" url="./layout/layout" data="{{...$root['0'], ...$root[$kk+'8480e336-1'],$root}}" is="81584606"></template><template title="Panel 面板" is-link="true" url="./panel/panel" data="{{...$root['0'], ...$root[$kk+'8480e336-2'],$root}}" is="81584606"></template><template title="List 列表" is-link="true" url="./list/list" data="{{...$root['0'], ...$root[$kk+'8480e336-3'],$root}}" is="81584606"></template><template title="Card 卡片" is-link="true" url="./card/card" data="{{...$root['0'], ...$root[$kk+'8480e336-4'],$root}}" is="81584606"></template></template>
+
+<template name="8480e336-default-8480e336-15"><template title="Button 按钮" is-link="true" url="./button/button" data="{{...$root['0'], ...$root[$kk+'8480e336-6'],$root}}" is="81584606"></template><template title="Icon 图标" is-link="true" url="./icon/icon" data="{{...$root['0'], ...$root[$kk+'8480e336-7'],$root}}" is="81584606"></template><template title="Badge 徽章" is-link="true" url="./badge/badge" data="{{...$root['0'], ...$root[$kk+'8480e336-8'],$root}}" is="81584606"></template><template title="Progress 进度条" is-link="true" url="./progress/progress" data="{{...$root['0'], ...$root[$kk+'8480e336-9'],$root}}" is="81584606"></template><template title="Avatar 头像" is-link="true" url="/pages/avatar/index" data="{{...$root['0'], ...$root[$kk+'8480e336-10'],$root}}" is="81584606"></template><template title="CountDown 倒计时" is-link="true" url="/pages/count-down/index" data="{{...$root['0'], ...$root[$kk+'8480e336-11'],$root}}" is="81584606"></template><template title="Divider 分隔符" is-link="true" url="/pages/divider/index" data="{{...$root['0'], ...$root[$kk+'8480e336-12'],$root}}" is="81584606"></template><template title="Collapse 折叠面板" is-link="true" url="/pages/collapse/index" data="{{...$root['0'], ...$root[$kk+'8480e336-13'],$root}}" is="81584606"></template><template title="LoadMore 页底提示" is-link="true" url="/pages/load-more/index" data="{{...$root['0'], ...$root[$kk+'8480e336-14'],$root}}" is="81584606"></template></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-1"><template title="单行列表" data="{{...$root['0'], ...$root[$kk+'66b05e3e-0'],$root}}" is="81584606"></template></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-3"><template title="单行列表" is-link="true" value="详细信息" data="{{...$root['0'], ...$root[$kk+'66b05e3e-2'],$root}}" is="81584606"></template></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-5"><template title="单行列表" label="附加描述" value="详细信息" data="{{...$root['0'], ...$root[$kk+'66b05e3e-4'],$root}}" is="81584606"></template></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-7"></template>
+
+<template type="accessory" size="28" color="#80848f" name="data-v-7b7cd252-icon-66b05e3e-7"></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-8"><template title="单行列表" value="详细信息" data="{{...$root['0'], ...$root[$kk+'66b05e3e-7'],$root, $slotdefault:'data-v-7b7cd252-default-66b05e3e-7',$sloticon:'data-v-7b7cd252-icon-66b05e3e-7'}}" is="81584606"></template></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-10"><template title="只显示箭头" is-link="true" data="{{...$root['0'], ...$root[$kk+'66b05e3e-9'],$root}}" is="81584606"></template></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-12"><template title="跳转到首页" is-link="true" url="/pages/index/index" data="{{...$root['0'], ...$root[$kk+'66b05e3e-11'],$root}}" is="81584606"></template></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-16"></template>
+
+<template type="digit" placeholder="带小数点的数字键盘" name="data-v-7b7cd252-footer-66b05e3e-16"></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-17"><template title="只显示箭头" is-link="true" data="{{...$root['0'], ...$root[$kk+'66b05e3e-13'],$root}}" is="81584606"></template><template title="跳转到首页" is-link="true" url="/pages/index/index" data="{{...$root['0'], ...$root[$kk+'66b05e3e-14'],$root}}" is="81584606"></template><block wx:if="{{true}}"><template title="单行列表" label="附加描述" value="详细信息" data="{{...$root['0'], ...$root[$kk+'66b05e3e-15'],$root}}" is="81584606"></template><template title="表单" data="{{...$root['0'], ...$root[$kk+'66b05e3e-16'],$root, $slotdefault:'data-v-7b7cd252-default-66b05e3e-16',$slotfooter:'data-v-7b7cd252-footer-66b05e3e-16'}}" is="81584606"></template></block></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-18"><template data="{{...$root['0'], ...$root[$kk+'66b05e3e-17'],$root, $slotdefault:'data-v-7b7cd252-default-66b05e3e-17'}}" is="0ae480fc"></template></template>
+
+<template name="data-v-7b7cd252-default-66b05e3e-20"><template title="单行列表" label="附加描述" value="详细信息" data="{{...$root['0'], ...$root[$kk+'66b05e3e-19'],$root}}" is="81584606"></template></template>
+
+<template name="data-v-96a4add2-default-4858bbbe-1">24：100%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-2"><template span="24" iClass="demo-col" data="{{...$root['0'], ...$root[$kk+'4858bbbe-1'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-1'}}" is="253462f6"></template></template>
+
+<template name="data-v-96a4add2-default-4858bbbe-3">12：50%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-4">12：50%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-5"><template span="12" iClass="demo-col" data="{{...$root['0'], ...$root[$kk+'4858bbbe-3'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-3'}}" is="253462f6"></template><template span="12" iClass="demo-col light" data="{{...$root['0'], ...$root[$kk+'4858bbbe-4'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-4'}}" is="253462f6"></template></template>
+
+<template name="data-v-96a4add2-default-4858bbbe-6">8：33.33%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-7">8：33.33%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-8">8：33.33%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-9"><template span="8" iClass="demo-col" data="{{...$root['0'], ...$root[$kk+'4858bbbe-6'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-6'}}" is="253462f6"></template><template span="8" iClass="demo-col light" data="{{...$root['0'], ...$root[$kk+'4858bbbe-7'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-7'}}" is="253462f6"></template><template span="8" iClass="demo-col" data="{{...$root['0'], ...$root[$kk+'4858bbbe-8'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-8'}}" is="253462f6"></template></template>
+
+<template name="data-v-96a4add2-default-4858bbbe-10">6：25%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-11">6：25%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-12">6：25%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-13">6：25%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-14"><template span="6" iClass="demo-col" data="{{...$root['0'], ...$root[$kk+'4858bbbe-10'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-10'}}" is="253462f6"></template><template span="6" iClass="demo-col light" data="{{...$root['0'], ...$root[$kk+'4858bbbe-11'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-11'}}" is="253462f6"></template><template span="6" iClass="demo-col" data="{{...$root['0'], ...$root[$kk+'4858bbbe-12'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-12'}}" is="253462f6"></template><template span="6" iClass="demo-col light" data="{{...$root['0'], ...$root[$kk+'4858bbbe-13'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-13'}}" is="253462f6"></template></template>
+
+<template name="data-v-96a4add2-default-4858bbbe-15">16：66.66%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-16">8：33.33%</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-17"><template span="16" iClass="demo-col" data="{{...$root['0'], ...$root[$kk+'4858bbbe-15'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-15'}}" is="253462f6"></template><template span="8" iClass="demo-col light" data="{{...$root['0'], ...$root[$kk+'4858bbbe-16'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-16'}}" is="253462f6"></template></template>
+
+<template name="data-v-96a4add2-default-4858bbbe-19">col-8</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-20">col-8 | offset-8</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-21"><template span="8" iClass="col-class" data="{{...$root['0'], ...$root[$kk+'4858bbbe-19'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-19'}}" is="253462f6"></template><template span="8" offset="8" iClass="col-class light" data="{{...$root['0'], ...$root[$kk+'4858bbbe-20'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-20'}}" is="253462f6"></template></template>
+
+<template name="data-v-96a4add2-default-4858bbbe-22">col-6 | offset-8</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-23">col-6 | offset-4</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-24"><template span="6" offset="8" iClass="col-class" data="{{...$root['0'], ...$root[$kk+'4858bbbe-22'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-22'}}" is="253462f6"></template><template span="6" offset="4" iClass="col-class light" data="{{...$root['0'], ...$root[$kk+'4858bbbe-23'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-23'}}" is="253462f6"></template></template>
+
+<template name="data-v-96a4add2-default-4858bbbe-25">col-12 | offset-8</template>
+
+<template name="data-v-96a4add2-default-4858bbbe-26"><template span="12" offset="8" iClass="col-class" data="{{...$root['0'], ...$root[$kk+'4858bbbe-25'],$root, $slotdefault:'data-v-96a4add2-default-4858bbbe-25'}}" is="253462f6"></template></template>
+
+<template name="06fe8821-default-06fe8821-0"></template>
+
+<template name="06fe8821-content-06fe8821-0">内容不错</template>
+
+<template name="06fe8821-footer-06fe8821-0">尾部内容</template>
+
+<template name="06fe8821-default-06fe8821-1"></template>
+
+<template name="06fe8821-content-06fe8821-1">内容不错</template>
+
+<template name="06fe8821-footer-06fe8821-1">尾部内容</template>
+
+<template name="06fe8821-default-06fe8821-2"></template>
+
+<template name="06fe8821-content-06fe8821-2">内容不尾部内容尾部内容尾部内容尾部内容尾部内容尾部内容尾部内容错</template>
+
+<template name="06fe8821-footer-06fe8821-2">尾部内容as尾部内容as尾部内容尾部内容尾部内容尾部内容尾部内容尾部内容尾部内容尾部内容as尾部内容as</template>
+
+<template name="2ad57f2b-default-2ad57f2b-0"><view style="padding: 15px;" class="_view 2ad57f2b">头部距离为 0 12312123的 Panel头部距离为 0 12312123的 Panel头部距离为 0 12312123的 Panel头部距离为 0 12312123的
+			Panel</view></template>
+
+<template name="2ad57f2b-default-2ad57f2b-1"><view style="padding: 15px;" class="_view 2ad57f2b">带有标题的 Panel</view></template>
+
+<template name="2ad57f2b-default-2ad57f2b-2"><view style="padding: 15px;" class="_view 2ad57f2b">无边框的 Panel</view></template>
+
+<template name="data-v-3b62d192-default-4655bf41-6">增加</template>
+
+<template name="data-v-3b62d192-default-4655bf41-7">减少</template>
+
+<template name="08b38921-default-08b38921-1">行内按钮</template>
+
+<template name="08b38921-default-08b38921-2">点击我有回调</template>
+
+<template name="08b38921-default-08b38921-3">行内按钮</template>
+
+<template name="08b38921-default-08b38921-4">默认12按钮</template>
+
+<template name="08b38921-default-08b38921-5">联通两边按钮</template>
+
+<template name="08b38921-default-08b38921-6">Primary</template>
+
+<template name="08b38921-default-08b38921-7">Ghost</template>
+
+<template name="08b38921-default-08b38921-8">Info</template>
+
+<template name="08b38921-default-08b38921-9">Success</template>
+
+<template name="08b38921-default-08b38921-10">Warning</template>
+
+<template name="08b38921-default-08b38921-11">Error</template>
+
+<template name="08b38921-default-08b38921-13">大尺寸</template>
+
+<template name="08b38921-default-08b38921-14">默认尺寸</template>
+
+<template name="08b38921-default-08b38921-15">小尺寸</template>
+
+<template name="08b38921-default-08b38921-17">大尺寸</template>
+
+<template name="08b38921-default-08b38921-18">默认尺寸</template>
+
+<template name="08b38921-default-08b38921-19">小尺寸</template>
+
+<template name="08b38921-default-08b38921-20">加载中按钮</template>
+
+<template name="08b38921-default-08b38921-21">禁用按钮</template>
+
+<template name="data-v-31de919f-default-cf4ea1ae-0"><view class="_view data-v-31de919f demo-badge"></view></template>
+
+<template name="data-v-31de919f-default-cf4ea1ae-1"><view class="_view data-v-31de919f demo-badge"></view></template>
+
+<template name="data-v-31de919f-default-cf4ea1ae-2"><view class="_view data-v-31de919f demo-badge"></view></template>
+

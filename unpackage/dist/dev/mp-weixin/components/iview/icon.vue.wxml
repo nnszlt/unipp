@@ -1,0 +1,1 @@
+<template name="8152dfd8"><view class="_view data-v-6eaab90e {{['iClass', 'i-icon', type === '' ? '' : 'i-icon-' + type, custom]}}" style=" {{('color:' + color + ';' + 'font-size:' + fontSize + ';')}}"></view></template>

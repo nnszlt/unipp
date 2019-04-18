@@ -1,0 +1,2 @@
+<import src="./Gselect.vue.wxml" />
+    <template is="a80c6c66" data="{{ ...$root['0'], $root }}"/>
